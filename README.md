@@ -3,13 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vit0rm&label=Profile%20views&color=0e75b6&style=flat" alt="vit0rm" /> </p>
 
-- 🧑🏿‍🎓 I’m *Ph.D. student in Economics (CEDEPLAR)*
-
-- 🕵🏿 I’m  worked at Fundação João Pinheiro [Indicadores Sociais](https://rpubs.com/fjp)
-
-- 👥️ I’m looking to collaborate on [LACAM](https://figshare.com/articles/dataset/Tabelas_de_Recusos_e_Usos_do_Par_de_2017/23291702)
-
-- 📫 How to reach me *vitormarinho@cedeplar.ufmg.br*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
